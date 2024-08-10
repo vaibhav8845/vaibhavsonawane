@@ -1,0 +1,29 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "React js",
+      "description": "React.js is a popular JavaScript library for building user interfaces, particularly single-page applications. "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Javascript",
+      "description": "JavaScript is a versatile, high-level programming language that is a cornerstone of web development. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Bootstrap",
+      "description": "Bootstrap is a popular open-source front-end framework designed to simplify the process of building responsive                 "
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Angular",
+      "description": "Angular is a powerful, open-source web application framework developed and maintained by Google. It is designed the development  "
+    }
+  ]
+  
+}
